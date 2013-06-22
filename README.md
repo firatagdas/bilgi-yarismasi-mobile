@@ -30,3 +30,5 @@ Kurulum ve Gereksinimler
  
  * AIR 3.7 SDK
  * Compile Parametreleri: CONFIG::debugMode (Performans Grafigini Gosterir), CONFIG::migrateMode (Boolean, app/redisgned.txt dosyasi icerisindeki sorulari okur ve database 'e import eder. Eski sorulari temizler.)
+ * Library Path: /lib
+ * Source Path: /rsrc
