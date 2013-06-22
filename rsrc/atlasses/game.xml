@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:cc9d403fc609e63fef1c56e9294b663f$ -->
+<TextureAtlas imagePath="game.png">
+    <SubTexture name="background" x="2" y="2" width="320" height="480"/>
+    <SubTexture name="correct-answer-icon" x="421" y="408" width="94" height="93"/>
+    <SubTexture name="header-background" x="1011" y="2" width="1" height="40"/>
+    <SubTexture name="main-menu" x="324" y="2" width="264" height="404" frameX="-28" frameY="-55" frameWidth="320" frameHeight="480"/>
+    <SubTexture name="menu-button-background" x="2" y="484" width="77" height="22"/>
+    <SubTexture name="next-question-button-background" x="517" y="408" width="140" height="55"/>
+    <SubTexture name="options-background-1" x="736" y="248" width="217" height="42"/>
+    <SubTexture name="options-background-2" x="736" y="204" width="217" height="42"/>
+    <SubTexture name="options-background-3" x="736" y="160" width="217" height="42"/>
+    <SubTexture name="options-background-4" x="517" y="465" width="217" height="42"/>
+    <SubTexture name="question-background" x="736" y="2" width="273" height="156"/>
+    <SubTexture name="timer-background" x="590" y="2" width="82" height="37"/>
+    <SubTexture name="wrong-answer-icon" x="324" y="408" width="95" height="94"/>
+</TextureAtlas>
