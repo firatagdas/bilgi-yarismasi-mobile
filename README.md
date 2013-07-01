@@ -32,3 +32,5 @@ Kurulum ve Gereksinimler
  * Compile Parametreleri: CONFIG::debugMode (Performans Grafigini Gosterir), CONFIG::migrateMode (Boolean, app/redisgned.txt dosyasi icerisindeki sorulari okur ve database 'e import eder. Eski sorulari temizler.)
  * Library Path: /lib
  * Source Path: /rsrc
+ 
+[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/05c90892d7d9b16296dc910926ffa0e0 "githalytics.com")](http://githalytics.com/firatagdas/bilgi-yarismasi-mobile)
